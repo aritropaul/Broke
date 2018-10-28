@@ -1,2 +1,2 @@
 # Broke
-A Simple Money Management App
+An Easy Money Management App.
